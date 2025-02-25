@@ -41,4 +41,5 @@ def sing_song():
         thread.join()
 
 if __name__ == "__main__":
-    sing_song()
+
+    python tresno\ tekane\ mati\ .py
